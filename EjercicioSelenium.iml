@@ -6,6 +6,19 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Documentos/workspace/selenium/selenium-java-4.51.0" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Documentos/workspace/selenium/selenium-java-4.51.0" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Documentos/workspace/selenium/selenium-java-4.51.0" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Documentos/workspace/selenium/selenium-java-4.51.0" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
